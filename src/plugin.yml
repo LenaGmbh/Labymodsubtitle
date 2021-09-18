@@ -1,0 +1,6 @@
+name: LabyModSubtitle
+main: me.lenajenichen.SubtitleMain
+version: 1.0
+
+commands:
+  subtitle:
